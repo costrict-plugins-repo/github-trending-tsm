@@ -1,0 +1,9 @@
+tests
+.env
+docs
+plans
+.DS_Store
+
+# Added by cargo
+
+/target
